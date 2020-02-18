@@ -3,7 +3,6 @@ package com.example.diary
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.text.Editable
 import android.widget.*
 import java.io.FileInputStream
 import java.io.FileOutputStream
